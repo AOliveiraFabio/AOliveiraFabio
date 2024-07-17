@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile! 👋
 Sou um desenvolvedor backend. Com experiência em Java e MySql, meu foco principal está na construção de sistemas eficientes e de qualidade que atendem às necessidades do usuário final.
 ####
-<a href="https://is.gd/KAZVuv">
+<a href="mailto:aoliveirafabio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
